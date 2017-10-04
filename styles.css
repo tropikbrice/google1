@@ -95,6 +95,12 @@ section.milieu
 
 	font-family: arial,sans-serif;
 	font-size: 16px;
+	font-weight: bold;
 
 	color: #666;
 }
+
+.recherche:hover ,.chance:hover
+ {
+ 	color: black;
+ }
